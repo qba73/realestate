@@ -1,3 +1,3 @@
 module github.com/qba73/realestate
 
-go 1.18
+go 1.21
